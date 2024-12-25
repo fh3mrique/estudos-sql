@@ -1,4 +1,4 @@
--- Forma tradicional
+	-- Forma tradicional
 select * from users u 
 where u.id=90 or u.id=16 or u.id=1;
 
